@@ -1,6 +1,6 @@
 ﻿# TradingView Alerts Tool 
 
-Automatically add, remove, and monitor custom TradingView alerts in bulk, with a full-featured real-time dashboard, web scraping, news, charting, and market data integrations.
+Automatically add, remove, and monitor custom TradingView alerts in bulk, with a full-featured real-time dashboard, text-to-speech alert announcements, web scraping, news, charting, and market data integrations.
 
 ---
 
